@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MultipleClickActivity!</string>
+    <string name="app_name">MultipleClick</string>
+    <string name="contentDescText">Image</string>
+    <string name="oneonetext">This is one one position</string>
+    <string name="onetwotext">This is one two position</string>
+    <string name="onethreetext">This is one three position</string>
+    <string name="twoonetext">This is two one position</string>
+    <string name="twotwotext">This is two two position</string>
+    <string name="twothreetext">This is two three position</string>
+    <string name="threeonetext">This is three one position</string>
+    <string name="threetwotext">This is three two position</string>
+    <string name="threethreetext">This is three three position</string>
+
+</resources>

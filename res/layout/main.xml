@@ -1,0 +1,24 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_frame"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg">
+
+    <ImageView
+        android:id="@+id/image_areas"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/contentDescText"
+        android:scaleType="fitCenter"
+        android:src="@drawable/boardoverlap"
+        />
+
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/contentDescText"
+        android:scaleType="fitCenter"
+        android:src="@drawable/board3" />
+
+</FrameLayout>
